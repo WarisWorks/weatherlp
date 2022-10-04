@@ -39,28 +39,34 @@ function Hero() {
         
          {/*  right side */}
          <div className="images"> 
+
+         { /* quyash  */}
+              <img src={require("../img/quyash.png")} alt=""
+               className="animate-bounce   absolute  bottom-[12rem] right-[50rem]" />
+
+ 
+
          <motion.img
            variants={bg}
             animate={`{elementIsVisible}`}
               transition={{duration: 1, type: 'ease-out'}}
               src={ require ("../img/backsand.png")} alt="" 
               className="absolute bottom-[0rem] right-[0rem]" />
-       { /* quyash  */}
-              <img src={require("../img/quyash.png")} alt=""
-               className="animate-bounce   absolute  bottom-[7rem] right-[40rem]" />
+      
+    
+
 
         { /*  Phone  */}
           <img src={require("../img/main.png")} alt=""
               className="absolute  bottom-[2rem] h-[28rem] left-[7rem] " />
           
+        
+         
+         {/* eidgah */}
+          <img src={require("../img/id3d.png")} alt=""
+              className="absolute flex  bottom-[5rem] right-[30rem]" />
 
-
-        {/* quyash */}
-              <img src={require("../img/eidgah.png")} alt=""
-              className="absolute bottom-[-2rem] right-[30rem]" />
-
-             
-              
+ 
               {/* yamghur bulut  */}
           <motion.img
             variants={yamgurbulut}
@@ -83,7 +89,10 @@ function Hero() {
             }}
             src={require("../img/quyun.png")} alt=""
               className='space-x-4 absolute bottom-[12rem] left-[20rem]' />
-
+        { /*  Phone  */}
+          <img src={require("../img/sand-front.png")} alt=""
+              className="absolute   h-[22rem] right-[8rem] " />
+      
              
          </div>
 
