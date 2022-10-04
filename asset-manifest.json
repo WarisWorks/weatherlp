@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weatherlp/static/css/main.52684b7b.css",
-    "main.js": "/weatherlp/static/js/main.767b32b9.js",
+    "main.css": "/weatherlp/static/css/main.12bfc8d8.css",
+    "main.js": "/weatherlp/static/js/main.d1d657ee.js",
     "static/js/787.0bb06a70.chunk.js": "/weatherlp/static/js/787.0bb06a70.chunk.js",
     "static/media/main.png": "/weatherlp/static/media/main.eb3d97f10a10b373ed0e.png",
     "static/media/phone2.png": "/weatherlp/static/media/phone2.84333829edfa786b88d5.png",
@@ -11,11 +11,13 @@
     "static/media/planet.png": "/weatherlp/static/media/planet.aed2ed9a1f06816bcb92.png",
     "static/media/ultra.png": "/weatherlp/static/media/ultra.ca8dd940496af536f654.png",
     "static/media/phone.png": "/weatherlp/static/media/phone.2122e32773bb3da1b8ae.png",
+    "static/media/id3d.png": "/weatherlp/static/media/id3d.e3f9a11da8eee60207b4.png",
     "static/media/backsand.png": "/weatherlp/static/media/backsand.8b46a2f859b7e53ba3db.png",
     "static/media/part4.png": "/weatherlp/static/media/part4.a70dcc7568319876f1a7.png",
     "static/media/d4.png": "/weatherlp/static/media/d4.44f5884453e786ce1559.png",
     "static/media/uchur.png": "/weatherlp/static/media/uchur.bfb736e151a1dd0afd7e.png",
     "static/media/giradus.png": "/weatherlp/static/media/giradus.641794dd6c689925bf64.png",
+    "static/media/sand-front.png": "/weatherlp/static/media/sand-front.4bf23213d7115c0ac2d8.png",
     "static/media/eidgah.png": "/weatherlp/static/media/eidgah.73c7658e306fb65b49a5.png",
     "static/media/hourly.png": "/weatherlp/static/media/hourly.9bafa40b85ab3d395eda.png",
     "static/media/WeatherIcon.png": "/weatherlp/static/media/WeatherIcon.489480a72b691c53c520.png",
@@ -29,12 +31,12 @@
     "static/media/quyun.png": "/weatherlp/static/media/quyun.a0be15ed68c9c33b67e3.png",
     "static/media/hawa.png": "/weatherlp/static/media/hawa.0ed1f355e157f06f5f74.png",
     "index.html": "/weatherlp/index.html",
-    "main.52684b7b.css.map": "/weatherlp/static/css/main.52684b7b.css.map",
-    "main.767b32b9.js.map": "/weatherlp/static/js/main.767b32b9.js.map",
+    "main.12bfc8d8.css.map": "/weatherlp/static/css/main.12bfc8d8.css.map",
+    "main.d1d657ee.js.map": "/weatherlp/static/js/main.d1d657ee.js.map",
     "787.0bb06a70.chunk.js.map": "/weatherlp/static/js/787.0bb06a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52684b7b.css",
-    "static/js/main.767b32b9.js"
+    "static/css/main.12bfc8d8.css",
+    "static/js/main.d1d657ee.js"
   ]
 }
